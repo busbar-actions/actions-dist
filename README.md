@@ -1,3 +1,8 @@
+> [!WARNING]
+> **`busbar-actions` is under heavy active development — expect breaking changes.**
+> These repositories are public, but **not ready for use yet** — please don't depend on them.
+> A pilot is starting soon: **[star and watch the busbar-actions organization](https://github.com/busbar-actions)** for the launch of Discussions and the pilot announcement.
+
 # busbar-actions/actions-dist
 
 Binary release host for the `busbar-actions` suite. Prebuilt CLI binaries are
